@@ -77,6 +77,7 @@
     background-color: green;
     border-radius: 5px;
   }
+
   
   .c1 {
     border: 2px solid black;
@@ -100,7 +101,7 @@
   .l5,
   .lf2,
   .lf3 {
-    border: 2px solid lightblue;
+    border: 2px solid blue;
     border-radius: 5px;
   }
   
